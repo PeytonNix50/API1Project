@@ -1,0 +1,28 @@
+li {
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: red;
+    list-style: none;
+}
+img {
+    height: 100px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: yellow;
+}
+body {
+    background-image: url(https://i.pinimg.com/564x/df/4e/8b/df4e8ba28f912bf9cdf9fa0dfc196411.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
